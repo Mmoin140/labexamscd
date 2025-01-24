@@ -12,6 +12,7 @@ public class Scdlabexam {
             return number;
         }
     }
+    // commit changes
     // Mutable class
     static class MutableNumber {
         private int number;
